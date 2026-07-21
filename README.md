@@ -8,7 +8,8 @@ A small collection of custom Steam boot/startup movies — swap out the default 
 - `m4XR2QVn3IJo4kPPu7YvFaitBW0WtQCoePTjEmhU.webm`
 - `ssstik.io_1783354193668.webm`
 - `retro_crt_glitch_boot.webm` — original retro CRT/glitch intro (fully custom, no copyrighted material)
-
+- `ghost_of_tsushima_calm_intro.webm`
+  
 Each video comes with a matching `.jpg` thumbnail preview.
 
 ## Installation
